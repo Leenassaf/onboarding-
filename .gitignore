@@ -1,0 +1,18 @@
+# ignore .env
+.env
+
+# ignore node_modules
+node_modules/
+dist/
+
+# ignore log files
+*.log
+
+# ignore OS generated files
+.DS_Store
+.vscode/
+.idea/
+
+
+
+
